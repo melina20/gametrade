@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Gametrade/models/UserModel.php" line="34" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0be41df3-c73b-4b99-994a-84de23a34924" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/after1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/arrow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bb_nav_right_img_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bb_nav_right_img_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/before1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/before2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/before3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/bg_image_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/btn_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/center1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/center2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/center3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fancybox_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/footer_pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/image_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/image_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/next1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/payment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/prev1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/quote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/saleoff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/banner_1180x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_152x216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_160x227.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_200x267.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_280x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_340x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_420x600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_60x85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_680x380.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_banner_920x155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_brand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_googlemap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/demo_video_340x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/home_block_image_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/platforms_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/platforms_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screen/demos/platforms_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/bootstrap.min.3x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/cs.global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/cs.script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/jquery.gmap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/jquery.imagesloaded.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/jquery.responsive-slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascripts/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/bootstrap.min.3x.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.bootstrap.3x.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.media.3x.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/cs.style.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/stylesheets/responsive-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/BaseList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Categorylist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Companylist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Connectable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Game.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Gamelist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Offer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Offerlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Platformlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Trade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/Tradelist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/classes/UserList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/controllers/BackendController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/controllers/GameController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/models/CategoryModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/models/GameModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/models/OfferModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/models/PlatformModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_categories_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_footer_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_games_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_header_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_home_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_offers_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_platforms_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_users_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/game/add_game_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/register_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/GametradeHelpers.php" afterPath="$PROJECT_DIR$/src/Gametrade/GametradeHelpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/controllers/HomeController.php" afterPath="$PROJECT_DIR$/src/Gametrade/controllers/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/controllers/MainController.php" afterPath="$PROJECT_DIR$/src/Gametrade/controllers/MainController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/controllers/UserController.php" afterPath="$PROJECT_DIR$/src/Gametrade/controllers/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/models/HomeModel.php" afterPath="$PROJECT_DIR$/src/Gametrade/models/HomeModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/models/UserModel.php" afterPath="$PROJECT_DIR$/src/Gametrade/models/UserModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/views/app/footer_view.php" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/footer_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/views/app/header_view.php" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/header_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Gametrade/views/app/home_view.php" afterPath="$PROJECT_DIR$/src/Gametrade/views/app/home_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/autoload.php" afterPath="$PROJECT_DIR$/src/autoload.php" />
+    </list>
+    <ignored path="gametrade.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gametrade" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/models/UserModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="23" />
+              <folding>
+                <element signature="e#30#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/GameController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/register_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Game.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-660">
+              <caret line="76" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="76" selection-end-column="21" />
+              <folding>
+                <marker date="1462914325000" expanded="true" signature="571:883" placeholder="SELECT gamen... games" />
+                <marker date="1462914325000" expanded="true" signature="1114:1393" placeholder="SELECT categ... games_categories" />
+                <marker date="1462914325000" expanded="true" signature="1816:2089" placeholder="SELECT platf... games_platforms" />
+                <marker date="1462914325000" expanded="true" signature="3127:3370" placeholder="INSERT INTO `games`... " />
+                <marker date="1462914325000" expanded="true" signature="4233:4397" placeholder="INSERT INTO `games_has_game_categories`... " />
+                <marker date="1462914325000" expanded="true" signature="4969:5130" placeholder="INSERT INTO `games_has_game_platforms`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <folding>
+                <marker date="1462994218000" expanded="true" signature="1249:1576" placeholder="INSERT INTO `users`... " />
+                <marker date="1462994218000" expanded="true" signature="2452:2518" placeholder="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Userlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Userlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding>
+                <element signature="e#37#68#0#PHP" expanded="true" />
+                <marker date="1462910016000" expanded="true" signature="277:312" placeholder="SELECT * FRO... users" />
+                <marker date="1462910016000" expanded="true" signature="277:322" placeholder="SELECT FROM offers" />
+                <marker date="1462910016000" expanded="true" signature="277:420" placeholder="SELECT FROM offers" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/src/controllers/User.php" />
+        <option value="$PROJECT_DIR$/src/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/src/controllers/MainController.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/basic_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/controllers/MainController.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/GametradeHelpers.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/footer_view.php" />
+        <option value="$USER_HOME$/Downloads/html/index.html" />
+        <option value="$PROJECT_DIR$/assets/javascripts/jquery.gmap.min.js" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/home_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/header_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Connectable.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Offer.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_footer_view.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/BaseList.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/UserList.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/View.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Database.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Gamelist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Offerlist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Userlist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Companylist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Categorylist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Game.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/game/add_game_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/controllers/GameController.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Tradelist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_games_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/HomeModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/OfferModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/PlatformModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/Platformlist.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_users_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_platforms_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_categories_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_header_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/GameModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/CategoryModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/controllers/BackendController.php" />
+        <option value="$PROJECT_DIR$/src/autoload.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_offers_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/views/app/register_view.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/models/UserModel.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/src/Gametrade/classes/User.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="174" />
+    <option name="y" value="23" />
+    <option name="width" value="1738" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gametrade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mbird-api-example" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Gametrade/views/app/backend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Gametrade" />
+      <recent name="$PROJECT_DIR$/src/Gametrade/views/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gametrade/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be41df3-c73b-4b99-994a-84de23a34924" name="Default" comment="" />
+      <created>1461351783287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461351783287</updated>
+      <workItem from="1461351784451" duration="10837000" />
+      <workItem from="1461531502449" duration="1686000" />
+      <workItem from="1462132866209" duration="22000" />
+      <workItem from="1462132910208" duration="333000" />
+      <workItem from="1462133250067" duration="100000" />
+      <workItem from="1462133440389" duration="10652000" />
+      <workItem from="1462222143693" duration="3616000" />
+      <workItem from="1462529159897" duration="3117000" />
+      <workItem from="1462613990310" duration="597000" />
+      <workItem from="1462899723053" duration="268000" />
+      <workItem from="1462899998873" duration="4000" />
+      <workItem from="1462900006404" duration="31292000" />
+      <workItem from="1462991881644" duration="3064000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit&#10;added some basic implementation of the framework">
+      <created>1461359034404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461359034404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="174" y="23" width="1738" height="1010" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20754717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20518868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit&#10;added some basic implementation of the framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;added some basic implementation of the framework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/javascripts/jquery.gmap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4645" selection-start-line="8" selection-start-column="4645" selection-end-line="8" selection-end-column="4645" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3390">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6390">
+          <caret line="426" column="9" selection-start-line="426" selection-start-column="9" selection-end-line="426" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/footer_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascripts/jquery.gmap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4645" selection-start-line="8" selection-start-column="4645" selection-end-line="8" selection-end-column="4645" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/GametradeHelpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Connectable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/footer_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="108" column="43" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_footer_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Offerlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Tradelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/basic_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_games_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/home_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="150" column="41" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/MainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_home_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="2411" column="117" selection-start-line="2411" selection-start-column="105" selection-end-line="2411" selection-end-column="117" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_users_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_platforms_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_categories_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="82" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/CategoryModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/HomeModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/BaseList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Categorylist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Companylist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/OfferModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#31#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Platformlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/PlatformModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Trade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/GameModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="153" column="98" selection-start-line="153" selection-start-column="98" selection-end-line="153" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/backend/backend_offers_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/game/add_game_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <marker date="1462224016000" expanded="true" signature="296:375" placeholder="INSERT INTO offers... " />
+            <marker date="1462224016000" expanded="true" signature="826:1181" placeholder="SELECT offer... offers" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/BackendController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Userlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <element signature="e#37#68#0#PHP" expanded="true" />
+            <marker date="1462910016000" expanded="true" signature="277:312" placeholder="SELECT * FRO... users" />
+            <marker date="1462910016000" expanded="true" signature="277:322" placeholder="SELECT FROM offers" />
+            <marker date="1462910016000" expanded="true" signature="277:420" placeholder="SELECT FROM offers" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Gamelist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1462905985000" expanded="true" signature="277:558" placeholder="SELECT games... games" />
+            <marker date="1462905985000" expanded="true" signature="846:1125" placeholder="SELECT categ... games_categories" />
+            <marker date="1462905985000" expanded="true" signature="1587:1860" placeholder="SELECT platf... games_platforms" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/views/app/register_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/Game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="76" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <marker date="1462914325000" expanded="true" signature="571:883" placeholder="SELECT gamen... games" />
+            <marker date="1462914325000" expanded="true" signature="1114:1393" placeholder="SELECT categ... games_categories" />
+            <marker date="1462914325000" expanded="true" signature="1816:2089" placeholder="SELECT platf... games_platforms" />
+            <marker date="1462914325000" expanded="true" signature="3127:3370" placeholder="INSERT INTO `games`... " />
+            <marker date="1462914325000" expanded="true" signature="4233:4397" placeholder="INSERT INTO `games_has_game_categories`... " />
+            <marker date="1462914325000" expanded="true" signature="4969:5130" placeholder="INSERT INTO `games_has_game_platforms`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/classes/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <marker date="1462994218000" expanded="true" signature="1249:1576" placeholder="INSERT INTO `users`... " />
+            <marker date="1462994218000" expanded="true" signature="2452:2518" placeholder="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/models/UserModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="e#30#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gametrade/controllers/GameController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
