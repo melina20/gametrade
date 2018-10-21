@@ -48,5 +48,5 @@ options:
   - Total completed transactions,
   - Feedback of the users and be able to edit/delete inappropriate feedback
   
-## The project is under implementation. 
+## The project is under development. 
 
